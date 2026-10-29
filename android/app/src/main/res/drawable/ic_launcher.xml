@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Three links fusing into one: Wi-Fi (cyan), cellular (amber), wire (green) into a fused core. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FF0D1728"
+        android:pathData="M0,0h108v108h-108z" />
+    <path
+        android:strokeColor="#FF3CC9EA"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M28,30 C44,42 48,50 54,54" />
+    <path
+        android:strokeColor="#FFF5A524"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M24,54 C40,54 46,54 54,54" />
+    <path
+        android:strokeColor="#FF3DDC97"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M28,78 C44,66 48,58 54,54" />
+    <path
+        android:strokeColor="#FFFF7A59"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:pathData="M54,54 L84,54" />
+    <path
+        android:fillColor="#FFFF7A59"
+        android:pathData="M54,54 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+</vector>
